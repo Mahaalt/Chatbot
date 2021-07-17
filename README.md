@@ -6,7 +6,7 @@ I made a chatbot by IBM Watson Assistant Called Buto.
 
 It still learning about this interface
 
-To try it click here [Buto Chatbot](https://mahaalt.github.io/Chatbot/).
+To try it click here [Buto Chatbot](https://mahaalt.github.io/Chatbot/), you can ask him about the robot, arm, and base, Also you can thank him.
 
 To see the json file click here [Buto File](https://github.com/Mahaalt/Chatbot/blob/main/Buto.json)
 
