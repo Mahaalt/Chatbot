@@ -10,7 +10,7 @@ To try it click here [Buto Chatbot](https://mahaalt.github.io/Chatbot/), you can
 
 To see the json file click here [Buto File](https://github.com/Mahaalt/Chatbot/blob/main/Buto.json)
 
-To make a chatbot you can go to [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant), Sign in, go to assistants and create a new.
+To make a chatbot you can go to [IBM Watson Assistant](https://www.ibm.com/cloud/watson-assistant), Sign in, go to assistants and create a new one.
 
 After you create it and name it, you can add intents, entities, and dialogs.
 
